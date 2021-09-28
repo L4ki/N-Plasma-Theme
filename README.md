@@ -10,3 +10,8 @@ Changelog:19.09.2021.
 --------------------
 
 Fixed widget: listitem.svg
+
+Changelog: 28.09.2021.
+----------------------
+
+Fixed widget: scrollbar.svg
