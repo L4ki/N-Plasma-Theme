@@ -15,3 +15,9 @@ Changelog: 28.09.2021.
 ----------------------
 
 Fixed widget: scrollbar.svg
+
+
+Changelog: 05.10.2021.
+----------------------
+
+Fixed icons: konv_message.svg, konversation.svg
