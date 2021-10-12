@@ -21,3 +21,8 @@ Changelog: 05.10.2021.
 ----------------------
 
 Fixed icons: konv_message.svg, konversation.svg
+
+Changelog: 12.10.2021.
+----------------------
+
+Fixed widget: arrows.svg
