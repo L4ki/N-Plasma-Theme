@@ -26,3 +26,8 @@ Changelog: 12.10.2021.
 ----------------------
 
 Fixed widget: arrows.svg
+
+Changelog: 19.10.2021.
+----------------------
+
+Fixed widget: viewitem.svg
