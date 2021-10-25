@@ -40,6 +40,6 @@ Plasma Theme
 
 Enabled Blurred Widgets for Plasma 5.23
 
-Fixed widget: arrows.svg, background.svg
+Fixed widget: arrows.svg, background.svg, line.svg
 
 Fixed dialogs: background.svg
