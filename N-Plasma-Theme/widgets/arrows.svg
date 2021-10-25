@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1005"
      id="namedview24"
      showgrid="false"
      inkscape:zoom="7.1363635"
-     inkscape:cx="13.802548"
-     inkscape:cy="14.152867"
+     inkscape:cx="39.515924"
+     inkscape:cy="11.210191"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,8 +53,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid975"
-       originx="1.7086704e-08"
-       originy="3.3480131e-06" />
+       originx="4.5888527e-08"
+       originy="5.8370033e-06" />
   </sodipodi:namedview>
   <g
      id="left-arrow">
@@ -75,7 +75,7 @@
        points="492,343 246,0 0,343 246,298 "
        id="polygon6-3"
        style="fill:#eceff4;fill-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       transform="matrix(0,-0.0203252,0.02332362,0,29,15.999998)" />
+       transform="matrix(0,-0.01626016,0.0186589,0,29.8,14.999999)" />
   </g>
   <g
      id="right-arrow">
@@ -96,7 +96,7 @@
        points="246,298 492,343 246,0 0,343 "
        id="polygon6-3-3"
        style="fill:#eceff4;fill-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       transform="matrix(0,0.0203252,-0.02332362,0,15.000002,6)" />
+       transform="matrix(0,0.01626016,-0.0186589,0,14.200003,7)" />
   </g>
   <g
      id="up-arrow">
@@ -114,9 +114,9 @@
     </g>
     <path
        class="fil0"
-       d="M 32.960009,27 25.96,39 h 5.515789 L 32.960009,36.401671 34.44423,39 H 39.96 Z m 0,1.60691 5.416021,9.47127 h -3.831267 l -1.58523,-2.73709 z"
+       d="m 33.033349,27.999999 -5.833349,10 h 4.596489 l 1.23686,-2.165269 1.236841,2.165269 h 4.59647 z m 0,1.33909 4.513341,7.89273 h -3.192727 l -1.321014,-2.28091 z"
        id="path6-3"
-       style="fill:#eceff4;fill-opacity:1;fill-rule:nonzero;stroke-width:0.019946;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="fill:#eceff4;fill-opacity:1;fill-rule:nonzero;stroke-width:0.016622;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        sodipodi:nodetypes="cccccccccccc" />
   </g>
   <g
@@ -135,9 +135,9 @@
     </g>
     <path
        class="fil0"
-       d="M 11.100006,39 18.1,27 H 12.584229 L 11.100005,29.598328 9.6157765,27 H 4.1 Z M 10.989217,36.95673 5.9047643,28.24909 h 3.8312612 l 1.3635075,2.40982 z"
+       d="m 11.033345,37.999999 5.833315,-10 H 12.270189 L 11.033344,30.165267 9.7964805,27.999999 H 5.2 Z m -0.09233,-1.70273 -4.2370464,-7.25636 h 3.1927172 l 1.1362592,2.00818 z"
        id="path6-3-6"
-       style="fill:#88c0d0;fill-opacity:1;fill-rule:nonzero;stroke-width:0.019946;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="fill:#88c0d0;fill-opacity:1;fill-rule:nonzero;stroke-width:0.016622;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        sodipodi:nodetypes="cccccccccccc" />
   </g>
 </svg>
