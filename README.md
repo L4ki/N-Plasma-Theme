@@ -31,3 +31,15 @@ Changelog: 19.10.2021.
 ----------------------
 
 Fixed widget: viewitem.svg
+
+Changelog: 25.10.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Enabled Blurred Widgets for Plasma 5.23
+
+Fixed widget: arrows.svg, background.svg
+
+Fixed dialogs: background.svg
