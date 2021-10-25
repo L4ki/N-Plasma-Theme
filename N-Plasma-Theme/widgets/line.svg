@@ -4,7 +4,7 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="90.875"
+     inkscape:cx="90.75"
      inkscape:cy="67"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -158,7 +158,7 @@
          height="0.5"
          width="42"
          id="rect2721"
-         style="opacity:1;fill:#88c0d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.707107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.3;fill:#88c0d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.707107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          transform="rotate(-90)" />
     </g>
   </g>
