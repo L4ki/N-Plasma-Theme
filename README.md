@@ -50,5 +50,5 @@ Changelog: 02.11.2021.
 Plasma Theme
 -------------
 
-Fuxed widget: tasks.svg
+Fixed widget: tasks.svg
 
