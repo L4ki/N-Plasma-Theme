@@ -43,3 +43,12 @@ Enabled Blurred Widgets for Plasma 5.23
 Fixed widget: arrows.svg, background.svg, line.svg
 
 Fixed dialogs: background.svg
+
+Changelog: 02.11.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fuxed widget: tasks.svg
+
