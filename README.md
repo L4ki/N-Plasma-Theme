@@ -52,3 +52,11 @@ Plasma Theme
 
 Fixed widget: tasks.svg
 
+Changelog: 09.11.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed icon: system.svg
+
