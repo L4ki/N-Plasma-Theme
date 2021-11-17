@@ -60,3 +60,11 @@ Plasma Theme
 
 Fixed icon: system.svg
 
+Changelog: 17.11.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed icon: media.svg
+
