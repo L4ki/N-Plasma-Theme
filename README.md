@@ -76,3 +76,11 @@ Plasma Theme
 
 Fixed icon: window.svg
 
+Changelog: 02.12.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: checkmarks.svg
+
