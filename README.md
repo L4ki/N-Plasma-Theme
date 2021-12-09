@@ -84,3 +84,11 @@ Plasma Theme
 
 Update widget: checkmarks.svg
 
+Changelog: 09.12.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: lineedit.svg
+
