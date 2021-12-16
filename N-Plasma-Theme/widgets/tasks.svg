@@ -26,8 +26,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="328.99998"
-     inkscape:cx="257.99999"
+     inkscape:cy="328.5"
+     inkscape:cx="258"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -1284,7 +1284,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path7270-7-7"
-         d="m 47,827.98718 36,0 c 2,0 2,0 2,2 H 45 c 0,-2 0,-2 2,-2 z"
+         d="m 47,827.98718 h 36 c 2,0 2,0 2,2 H 45 c 0,-2 0,-2 2,-2 z"
          style="opacity:0.01;fill:#88c0d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.816503"
          sodipodi:nodetypes="ccccc" />
     </g>
@@ -3465,7 +3465,7 @@
          inkscape:connector-curvature="0"
          id="path7270-7-7-7-5-98"
          d="m 45,828.36218 h 40 v 2.99995 H 45 Z"
-         style="opacity:0.05;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="opacity:0.01;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="west-minimized-topleft"
@@ -3579,7 +3579,7 @@
          inkscape:connector-curvature="0"
          id="path7270-7-7-0-4-7"
          d="m 45,828.36218 h 40 v 2.99995 H 45 Z"
-         style="opacity:0.04;fill:#ebcb8b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="opacity:0.01;fill:#ebcb8b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        id="west-attention-topleft"
