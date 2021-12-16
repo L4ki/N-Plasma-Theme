@@ -92,3 +92,11 @@ Plasma Theme
 
 Update widget: lineedit.svg
 
+Changelog: 16.12.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
