@@ -100,3 +100,11 @@ Plasma Theme
 
 Update widget: tasks.svg
 
+Changelog: 23.12.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: plasmoidheading.svg
+
