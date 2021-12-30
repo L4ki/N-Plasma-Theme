@@ -108,3 +108,12 @@ Plasma Theme
 
 Update widget: plasmoidheading.svg
 
+Changelog: 30.12.2021.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: tabbar.svg
+
+
