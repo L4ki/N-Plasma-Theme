@@ -124,4 +124,12 @@ Plasma Theme
 
 Update widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
+Changelog: 13.01.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: tooltip.svg
+
 
