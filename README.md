@@ -133,3 +133,12 @@ Plasma Theme
 Update widget: tooltip.svg
 
 
+Changelog: 20.01.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: busywidget.svg
+
+
