@@ -148,7 +148,7 @@ Changelog: 27.01.2022.
 Plasma Theme
 -------------
 
-Update widget: slider.svg, panel-background.svg
+Update widgets: slider.svg, panel-background.svg
 
 
 
