@@ -150,5 +150,13 @@ Plasma Theme
 
 Update widgets: slider.svg, panel-background.svg
 
+Changelog: 03.02.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widgets: action-overlays.svg
+
 
 
