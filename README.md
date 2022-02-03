@@ -156,7 +156,7 @@ Changelog: 03.02.2022.
 Plasma Theme
 -------------
 
-Update widgets: action-overlays.svg
+Update widget: action-overlays.svg
 
 
 
