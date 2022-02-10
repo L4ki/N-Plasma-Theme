@@ -5,7 +5,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="actionbutton.svg"
    version="1.0"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:version="0.32"
    id="svg2"
    height="128"
@@ -29,9 +29,9 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="92.454209"
-     inkscape:cy="82.024384"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="139"
+     inkscape:cy="40.249999"
      inkscape:document-units="px"
      width="128px"
      height="128px"
@@ -50,7 +50,7 @@
      inkscape:bbox-nodes="true"
      showguides="false"
      inkscape:document-rotation="0"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -1748,7 +1748,7 @@
   <g
      transform="matrix(1.6000001,0,0,1.6,-99.200007,-139.16844)"
      id="shadow"
-     style="opacity:0.01">
+     style="opacity:0.15">
     <ellipse
        ry="10"
        rx="12"
