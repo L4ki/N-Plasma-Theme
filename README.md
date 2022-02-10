@@ -159,4 +159,14 @@ Plasma Theme
 Update widget: action-overlays.svg
 
 
+Changelog: 10.02.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: actionbutton.svg
+
+
+
 
