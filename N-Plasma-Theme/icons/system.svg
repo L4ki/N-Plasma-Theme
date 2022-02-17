@@ -52,19 +52,19 @@
      inkscape:snap-nodes="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:guide-bbox="true"
      showguides="false"
      inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="96.5"
-     inkscape:cx="98.5"
+     inkscape:cy="75.75"
+     inkscape:cx="79.5"
      inkscape:zoom="2"
      showgrid="false"
      id="namedview78"
-     inkscape:window-height="1013"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -74,7 +74,7 @@
      borderopacity="1"
      bordercolor="#030303"
      pagecolor="#ffffff"
-     inkscape:showpageshadow="true"
+     inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        id="grid885"
@@ -82,12 +82,12 @@
        originx="-26"
        originy="73" />
     <sodipodi:guide
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide948"
        orientation="0.70710678,0.70710678"
        position="-25.25926,-168.85938" />
     <sodipodi:guide
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide950"
        orientation="-0.70710678,0.70710678"
        position="-25.2963,-168.875" />
