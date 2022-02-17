@@ -168,5 +168,15 @@ Plasma Theme
 Update widget: actionbutton.svg
 
 
+Changelog: 17.02.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: system.svg
+
+
+
 
 
