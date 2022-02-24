@@ -176,6 +176,15 @@ Plasma Theme
 
 Update icon: system.svg
 
+Changelog: 24.02.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: applications.svg
+
+
 
 
 
