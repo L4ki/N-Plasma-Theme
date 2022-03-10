@@ -1,5 +1,5 @@
 # N-Plasma-Theme
-N-Plasma-Tneme  Dark Transparent and Blur
+Dark Plasma Theme Transparent and Blur
 
 Changelog: 12.09.2021.
 ----------------------
