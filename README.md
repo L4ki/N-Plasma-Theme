@@ -192,6 +192,15 @@ Plasma Theme
 
 Update widget: clock.svg
 
+Changelog: 10.03.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: window.svg
+
+
 
 
 
