@@ -201,6 +201,17 @@ Plasma Theme
 Update icon: window.svg
 
 
+Changelog: 17.03.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+update widget: tooltip.svg
+
+Update icon: view.svg
+
+
 
 
 
