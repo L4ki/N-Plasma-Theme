@@ -1,6 +1,8 @@
 # N-Plasma-Theme
 Dark Plasma Theme Transparent and Blur
 
+Download: https://www.pling.com/p/1590088
+
 Changelog: 12.09.2021.
 ----------------------
 
