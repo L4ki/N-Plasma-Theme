@@ -213,6 +213,14 @@ update widget: tooltip.svg
 
 Update icon: view.svg
 
+Changelog: 24.03.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: battery.svg
+
 
 
 
