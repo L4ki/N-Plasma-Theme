@@ -221,6 +221,14 @@ Plasma Theme
 
 Update icon: battery.svg
 
+Changelog: 01.04..2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: bookmarks.svg
+
 
 
 
