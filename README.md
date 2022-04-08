@@ -230,6 +230,15 @@ Plasma Theme
 Update icon: bookmarks.svg
 
 
+Changelog: 07.04..2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: cantata.svg
+
+
 
 
 
