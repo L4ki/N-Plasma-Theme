@@ -239,6 +239,16 @@ Plasma Theme
 Update icon: cantata.svg
 
 
+Changelog: 16.04..2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: configuration-icons.svg
+
+
+
 
 
 
