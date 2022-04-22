@@ -247,6 +247,14 @@ Plasma Theme
 
 Update widget: configuration-icons.svg
 
+Changelog: 23.04..2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: audacious.svg
+
 
 
 
