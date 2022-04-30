@@ -221,7 +221,7 @@ Plasma Theme
 
 Update icon: battery.svg
 
-Changelog: 01.04..2022.
+Changelog: 01.04.2022.
 ----------------------
 
 Plasma Theme
@@ -230,7 +230,7 @@ Plasma Theme
 Update icon: bookmarks.svg
 
 
-Changelog: 07.04..2022.
+Changelog: 07.04.2022.
 ----------------------
 
 Plasma Theme
@@ -239,7 +239,7 @@ Plasma Theme
 Update icon: cantata.svg
 
 
-Changelog: 16.04..2022.
+Changelog: 16.04.2022.
 ----------------------
 
 Plasma Theme
@@ -247,7 +247,7 @@ Plasma Theme
 
 Update widget: configuration-icons.svg
 
-Changelog: 23.04..2022.
+Changelog: 23.04.2022.
 ----------------------
 
 Plasma Theme
@@ -255,7 +255,7 @@ Plasma Theme
 
 Update icon: audacious.svg
 
-Changelog: 30.04..2022.
+Changelog: 30.04.2022.
 ----------------------
 
 Plasma Theme
