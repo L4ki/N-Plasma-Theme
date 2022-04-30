@@ -255,6 +255,14 @@ Plasma Theme
 
 Update icon: audacious.svg
 
+Changelog: 30.04..2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: containment-controls.svg
+
 
 
 
