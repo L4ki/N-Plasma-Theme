@@ -264,6 +264,15 @@ Plasma Theme
 Update widget: containment-controls.svg
 
 
+Changelog: 07.05.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: activities.svg
+
+
 
 
 
