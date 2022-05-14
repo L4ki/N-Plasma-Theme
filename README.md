@@ -272,6 +272,14 @@ Plasma Theme
 
 Update icon: activities.svg
 
+Changelog: 14.05.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: preferences.svg
+
 
 
 
