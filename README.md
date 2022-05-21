@@ -280,6 +280,13 @@ Plasma Theme
 
 Update icon: preferences.svg
 
+Changelog: 21.05.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: klipper.svg
 
 
 
