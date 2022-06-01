@@ -289,6 +289,15 @@ Plasma Theme
 Update icon: klipper.svg
 
 
+Changelog: 201.06.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: timer.svg
+
+
 
 
 
