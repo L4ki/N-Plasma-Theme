@@ -289,13 +289,21 @@ Plasma Theme
 Update icon: klipper.svg
 
 
-Changelog: 201.06.2022.
+Changelog: 01.06.2022.
 ----------------------
 
 Plasma Theme
 -------------
 
 Update widget: timer.svg
+
+Changelog: 08.06.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icons: disk, input, keyboard, klipper, video, kdeconnect, cantata, preferences, device, redshift, activities
 
 
 
