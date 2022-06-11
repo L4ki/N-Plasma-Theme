@@ -297,7 +297,7 @@ Plasma Theme
 
 Update widget: timer.svg
 
-Changelog: 08.06.2022.
+Changelog: 11.06.2022.
 ----------------------
 
 Plasma Theme
