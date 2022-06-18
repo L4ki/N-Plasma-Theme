@@ -305,7 +305,13 @@ Plasma Theme
 
 Update icons: disk, input, keyboard, klipper, video, kdeconnect, cantata, preferences, device, redshift, activities
 
+Changelog: 18.06.2022.
+----------------------
 
+Plasma Theme
+-------------
+
+Update icons: mail, kmail, konversation, konv_message
 
 
 
