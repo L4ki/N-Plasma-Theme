@@ -313,6 +313,14 @@ Plasma Theme
 
 Update icons: mail, kmail, konversation, konv_message
 
+Changelog: 25.06.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: audio
+
 
 
 
