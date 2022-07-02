@@ -322,6 +322,14 @@ Plasma Theme
 Update icon: audio
 
 
+Changelog: 02.07.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widgets: slider.svg, viewitem.svg
+
 
 
 
