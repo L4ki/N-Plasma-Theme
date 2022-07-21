@@ -330,6 +330,14 @@ Plasma Theme
 
 Update widgets: slider.svg, viewitem.svg
 
+Changelog: 21.07.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: utilities.svg
+
 
 
 
