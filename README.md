@@ -338,6 +338,14 @@ Plasma Theme
 
 Update icon: utilities.svg
 
+Changelog: 28.07.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: touchpad.svg
+
 
 
 
