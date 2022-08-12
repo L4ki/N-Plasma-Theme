@@ -346,6 +346,14 @@ Plasma Theme
 
 Update icon: touchpad.svg
 
+Changelog: 12.08.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: tabbar.svg
+
 
 
 
