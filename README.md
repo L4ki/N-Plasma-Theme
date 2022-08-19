@@ -355,5 +355,14 @@ Plasma Theme
 Update widget: tabbar.svg
 
 
+Changelog: 19.08.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: arrows.svg
+
+
 
 
