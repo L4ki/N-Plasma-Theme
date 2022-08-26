@@ -363,6 +363,14 @@ Plasma Theme
 
 Update widget: arrows.svg
 
+Changelog: 26.08.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: system.svg
+
 
 
 
