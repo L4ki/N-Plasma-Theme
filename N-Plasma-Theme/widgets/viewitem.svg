@@ -3,7 +3,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="viewitem.svg"
    version="1.0"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:version="0.32"
    id="svg7080"
    height="161"
@@ -30,9 +30,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="36.562502"
-     inkscape:cx="162.37501"
-     inkscape:zoom="7.9999996"
+     inkscape:cy="109.60156"
+     inkscape:cx="168.29142"
+     inkscape:zoom="1.4142135"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1"
@@ -41,7 +41,7 @@
      id="base"
      inkscape:lockguides="true"
      showguides="false"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
@@ -1043,5 +1043,12 @@
          x="326.14285"
          y="851.85712" />
     </g>
+    <rect
+       style="opacity:0.01;fill:#00d3ff;fill-opacity:1;stroke:none"
+       id="hint-tile-center"
+       width="40"
+       height="40"
+       x="-113.89201"
+       y="341.67673" />
   </g>
 </svg>
