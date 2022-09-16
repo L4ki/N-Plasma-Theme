@@ -390,11 +390,6 @@ Update widget: viewitem.svg
 Changelog: 16.09.2022.
 ----------------------
 
-Icons
-------
-
-Update icons: places
-
 Plasma Theme
 -------------
 
