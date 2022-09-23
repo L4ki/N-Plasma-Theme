@@ -396,6 +396,15 @@ Plasma Theme
 Update widget: background.svg
 
 
+Changelog: 23.09.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update icon: kdeconnect.svg
+
+
 
 
 
