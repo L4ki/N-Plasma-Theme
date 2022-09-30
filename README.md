@@ -404,6 +404,14 @@ Plasma Theme
 
 Update icon: kdeconnect.svg
 
+Changelog: 30.09.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added new icons: kdf.svg, kget.svg
+
 
 
 
