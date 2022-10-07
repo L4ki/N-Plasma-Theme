@@ -412,6 +412,14 @@ Plasma Theme
 
 Added new icons: kdf.svg, kget.svg
 
+Changelog: 07.10.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added new icons: dropbox.svg, kup.svg
+
 
 
 
