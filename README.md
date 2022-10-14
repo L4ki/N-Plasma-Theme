@@ -421,6 +421,15 @@ Plasma Theme
 Added new icons: dropbox.svg, kup.svg
 
 
+Changelog: 14.10.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added new icons: kleopatra.svg, kpackagekit.svg, korgac.svg
+
+
 
 
 
