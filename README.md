@@ -430,6 +430,15 @@ Plasma Theme
 Added new icons: kleopatra.svg, kpackagekit.svg, korgac.svg
 
 
+Changelog: 21.10.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widgets: scrollbar.svg, bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+
 
 
 
