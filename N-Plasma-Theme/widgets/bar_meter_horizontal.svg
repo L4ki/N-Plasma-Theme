@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="bar_meter_horizontal.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    version="1.1"
    id="svg2"
    viewBox="0 0 30 30"
@@ -30,7 +30,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1006"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      units="px"
      borderlayer="false"
@@ -38,7 +38,7 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="20.269982"
+     inkscape:cy="20.34396"
      inkscape:cx="19.530202"
      inkscape:zoom="6.7587627"
      inkscape:pageshadow="2"
@@ -48,7 +48,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        originy="-117.99998"
        originx="0"
@@ -274,5 +275,19 @@
          style="fill:#a3be8c;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
+    <rect
+       id="hint-tile-center"
+       height="4"
+       style="opacity:0.01;fill:#008080;fill-opacity:1"
+       width="4"
+       x="42.162296"
+       y="904.87744" />
+    <rect
+       id="hint-bar-size"
+       height="2.0000007"
+       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke-width:0.33333"
+       width="2.0000007"
+       x="48.162296"
+       y="904.87744" />
   </g>
 </svg>
