@@ -439,6 +439,15 @@ Plasma Theme
 Update widgets: scrollbar.svg, bar_meter_horizontal.svg, bar_meter_vertical.svg
 
 
+Changelog: 28.10.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Update widget: action-overlays
+
+
 
 
 
