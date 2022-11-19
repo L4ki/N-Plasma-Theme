@@ -447,6 +447,14 @@ Plasma Theme
 
 Update widget: action-overlays
 
+Changelog: 19.11.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icons: knotes.svg, face.svg
+
 
 
 
