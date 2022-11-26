@@ -456,6 +456,15 @@ Plasma Theme
 Added icons: knotes.svg, face.svg
 
 
+Changelog: 26.11.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icons: nulloy.svg, go.svg
+
+
 
 
 
