@@ -464,6 +464,14 @@ Plasma Theme
 
 Added icons: nulloy.svg, go.svg
 
+Changelog: 03.12.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: mellowplayer.svg
+
 
 
 
