@@ -472,6 +472,15 @@ Plasma Theme
 
 Added icon: mellowplayer.svg
 
+Changelog: 10.12.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icons: krusader_root.svg, krusader_user.svg
+
+
 
 
 
