@@ -480,6 +480,14 @@ Plasma Theme
 
 Added icons: krusader_root.svg, krusader_user.svg
 
+Changelog: 23.12.2022.
+----------------------
+
+Plasma Theme
+-------------
+
+Added icon: jami.svg
+
 
 
 
